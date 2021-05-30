@@ -1,1 +1,1 @@
-Hello! I am Zachary Sakowitz, lead developer of @zSnout.
+Hello! I am Zachary Sakowitz, lead developer of [zSnout](https://zsnout.com/). I mostly program in JavaScript and PHP, and have experience in other client-side languages (HTML & CSS), as well as Python.
