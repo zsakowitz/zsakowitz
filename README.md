@@ -1,1 +1,1 @@
-Hello! I am Zachary Sakowitz, lead developer of [zSnout](https://zsnout.com/). I mostly program in JavaScript and PHP, and have experience in other client-side languages (HTML & CSS), as well as Python.
+Hello! I am Zachary Sakowitz, lead (and only) developer of [zSnout](https://zsnout.com/). Nowadays I use TypeScript, HTML, and SCSS for projects like @zSnout. I used to work in vanilla JavaScript (including ES6 and up), vanilla CSS, and Python.
