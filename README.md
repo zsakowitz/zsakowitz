@@ -46,7 +46,7 @@
 [![@zsnout/willow](https://img.shields.io/badge/%40zsnout%2Fwillow-black?style=for-the-badge&icon=npm)](https://npmjs.com/package/@zsnout/willow)
 [![@zsnout/ithkuil](https://img.shields.io/badge/%40zsnout%2Fithkuil-black?style=for-the-badge&icon=npm)](https://npmjs.org/package/@zsnout/ithkuil)
 
-More projects available under [my profile](https://github.com/zsakowitz?tab-repositories) and [zSnout's profile](https://github.com/zSnout?tab-repositories).
+More projects available under [my profile](https://github.com/zsakowitz) and [zSnout's profile](https://github.com/zSnout).
 
 ### Spoken Languages
 
