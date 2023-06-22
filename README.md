@@ -4,7 +4,7 @@
   <em>
     I'm Zachary Sakowitz. <br />
     Website: <a href="https://zsnout.com/">zSnout.com</a> <br />
-    Beta website: <a href="https://v8.zsnout.com/">v8.zSnout.com</a>
+    Beta website: <a href="https://v8.zsnout.com/">v8.zSnout.com</a> <br />
     Organization: <a href="https://github.com/zsnout">zSnout</a>
   </em>
 </p>
