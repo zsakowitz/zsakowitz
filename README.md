@@ -3,10 +3,11 @@
 <p align="center"><em>I'm Zachary Sakowitz.</em></p>
 
 <p align="center">
-  Website: <a href="https://zsnout.com/">zSnout.com</a> <br />
-  Beta website: <a href="https://v8.zsnout.com/">v8.zSnout.com</a> <br />
+  Websites: <a href="https://zsnout.com/">zSnout.com</a> and <a href="https://v8.zsnout.com/">v8.zSnout.com</a> <br />
   Organization: <a href="https://github.com/zsnout">zSnout</a>
 </p>
+
+I'm interested in programming, math, linguistics, and conlangs. My main projects for the last few months have been related to [the Ithkuil language](http://ithkuil.net), which include a [script generator](https://v8.zsnout.com/ithkuil/script), a [Discord bot]([https://](https://discord.gg/WqQRGD9ZbD)) for glossing Ithkuil, and the NPM package [@zsnout/ithkuil](https://npmjs.com/package/@zsnout/ithkuil), a comprehensive set of utilities for the [Ithkuil](http://ithkuil.net) language.
 
 ### Programming Languages
 
