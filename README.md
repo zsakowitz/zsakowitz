@@ -4,10 +4,23 @@
 
 <p align="center">
   Websites: <a href="https://zsnout.com/">zSnout.com</a> and <a href="https://v8.zsnout.com/">v8.zSnout.com</a> <br />
-  Organization: <a href="https://github.com/zsnout">zSnout</a>
 </p>
 
-I'm interested in programming, math, linguistics, and conlangs. My main projects for the last few months have been related to [the Ithkuil language](http://ithkuil.net), which include a [script generator](https://v8.zsnout.com/ithkuil/script), a [Discord bot](https://discord.gg/qpM7dYyz4Q) for glossing Ithkuil, and the NPM package [@zsnout/ithkuil](https://npmjs.com/package/@zsnout/ithkuil), a comprehensive set of utilities for Ithkuil.
+I'm interested in programming, math, linguistics, and conlangs (especially toki pona and Ithkuil). My main projects for the last few months have been related to [the Ithkuil language](http://ithkuil.net), which include a [script generator](https://v8.zsnout.com/ithkuil/script), a [Discord bot](https://discord.gg/qpM7dYyz4Q) for glossing Ithkuil, and the NPM package [@zsnout/ithkuil](https://npmjs.com/package/@zsnout/ithkuil), a comprehensive set of utilities for Ithkuil.
+
+_mi sona e toki pona! ma pona la mi jan Sakawi, o toki tawa mi._
+
+### Projects
+
+[![OneCity](https://img.shields.io/badge/onecity-black?style=for-the-badge)](https://1city.zsnout.com/)
+[![zSnout 8](https://img.shields.io/badge/zsnout_8-black?style=for-the-badge)](https://v8.zsnout.com/)
+[![zSnout 7](https://img.shields.io/badge/zsnout_7-black?style=for-the-badge)](https://zsnout.com/)
+[![kama sona](https://img.shields.io/badge/kama_sona-black?style=for-the-badge)](https://ks.zsnout.com/)
+[![Storymatic 4](https://img.shields.io/badge/storymatic_4-black?style=for-the-badge)](https://storymatic.zsnout.com/)
+[![@zsnout/willow](https://img.shields.io/badge/%40zsnout%2Fwillow-black?style=for-the-badge&icon=npm)](https://npmjs.com/package/@zsnout/willow)
+[![@zsnout/ithkuil](https://img.shields.io/badge/%40zsnout%2Fithkuil-black?style=for-the-badge&icon=npm)](https://npmjs.org/package/@zsnout/ithkuil)
+
+More projects available under [my profile](https://github.com/zsakowitz) and [zSnout's profile](https://github.com/zSnout).
 
 ### Programming Languages
 
@@ -37,27 +50,13 @@ I'm interested in programming, math, linguistics, and conlangs. My main projects
 ![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
 ![SurrealDB](https://img.shields.io/badge/surrealdb-black?style=for-the-badge&logo=surrealdb)
 
-### Projects
-
-[![OneCity](https://img.shields.io/badge/onecity-black?style=for-the-badge)](https://1city.zsnout.com/)
-[![zSnout 8](https://img.shields.io/badge/zsnout_8-black?style=for-the-badge)](https://v8.zsnout.com/)
-[![zSnout 7](https://img.shields.io/badge/zsnout_7-black?style=for-the-badge)](https://zsnout.com/)
-[![kama sona](https://img.shields.io/badge/kama_sona-black?style=for-the-badge)](https://ks.zsnout.com/)
-[![Storymatic 4](https://img.shields.io/badge/storymatic_4-black?style=for-the-badge)](https://storymatic.zsnout.com/)
-[![@zsnout/willow](https://img.shields.io/badge/%40zsnout%2Fwillow-black?style=for-the-badge&icon=npm)](https://npmjs.com/package/@zsnout/willow)
-[![@zsnout/ithkuil](https://img.shields.io/badge/%40zsnout%2Fithkuil-black?style=for-the-badge&icon=npm)](https://npmjs.org/package/@zsnout/ithkuil)
-
-More projects available under [my profile](https://github.com/zsakowitz) and [zSnout's profile](https://github.com/zSnout).
-
 ### Spoken Languages
-
-#### Fluent
 
 [![English](https://img.shields.io/badge/english-black?style=for-the-badge)](https://en.wikipedia.org/wiki/English_language)
 [![Spanish](https://img.shields.io/badge/spanish-black?style=for-the-badge)](https://en.wikipedia.org/wiki/Spanish_language)
 [![toki pona](https://img.shields.io/badge/toki_pona-black?style=for-the-badge)](http://tokipona.org/)
 
-#### Learning
+**Also learning:**
 
 [![New Ithkuil](https://img.shields.io/badge/new_ithkuil-black?style=for-the-badge)](http://ithkuil.net/)
 [![French](https://img.shields.io/badge/french-black?style=for-the-badge)](https://en.wikipedia.org/wiki/French_language)
