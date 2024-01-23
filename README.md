@@ -8,7 +8,7 @@
 
 I'm interested in programming, math, linguistics, and conlangs (especially toki pona and Ithkuil). My main projects for the last few months have been related to [the Ithkuil language](http://ithkuil.net), which include a [script generator](https://v8.zsnout.com/ithkuil/script), a [Discord bot](https://discord.gg/qpM7dYyz4Q) for glossing Ithkuil, and the NPM package [@zsnout/ithkuil](https://npmjs.com/package/@zsnout/ithkuil), a comprehensive set of utilities for Ithkuil.
 
-_mi sona e toki pona! ma pona la mi jan Sakawi, o toki tawa mi._
+_mi sona e toki pona! ma pona la mi \[nimi open\] Sakawi, o toki tawa mi._
 
 ### Projects
 
