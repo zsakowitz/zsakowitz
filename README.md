@@ -54,6 +54,7 @@ More projects available under [my profile](https://github.com/zsakowitz) and [zS
 [![English](https://img.shields.io/badge/english-black?style=for-the-badge)](https://en.wikipedia.org/wiki/English_language)
 [![Spanish](https://img.shields.io/badge/spanish-black?style=for-the-badge)](https://en.wikipedia.org/wiki/Spanish_language)
 [![toki pona](https://img.shields.io/badge/toki_pona-black?style=for-the-badge)](http://tokipona.org/)
+[![Vjosa](https://img.shields.io/badge/vjosa-black?style=for-the-badge)](http://langstuff.pjm.fi/viossa/)
 
 **Also learning:**
 
