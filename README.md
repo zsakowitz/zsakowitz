@@ -1,6 +1,6 @@
 <h1 align="center">Hi!</h1>
 
-<p align="center"><em>I'm sakawi. mi sakawi.</em></p>
+<p align="center"><em>I'm sakawi.</em></p>
 
 <p align="center">
   Websites: <a href="https://zsnout.com/">zSnout.com</a> and <a href="https://v8.zsnout.com/">v8.zSnout.com</a> <br />
@@ -8,7 +8,7 @@
 
 I'm interested in programming, math, linguistics, and conlangs (especially toki pona and Ithkuil). My main projects for the last few months have been related to [the Ithkuil language](http://ithkuil.net), which include a [script generator](https://v8.zsnout.com/ithkuil/script), a [Discord bot](https://discord.gg/qpM7dYyz4Q) for glossing Ithkuil, and the NPM package [@zsnout/ithkuil](https://npmjs.com/package/@zsnout/ithkuil), a comprehensive set of utilities for Ithkuil.
 
-_mi sona e toki pona! ma pona la mi \[nimi open\] Sakawi, o toki tawa mi._
+<p align="center"><em>mi ken toki pona a • o mu e mi lon ilo [siko]</em></p>
 
 ### Projects
 
