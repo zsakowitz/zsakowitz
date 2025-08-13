@@ -3,7 +3,7 @@
 <p align="center"><em>I'm sakawi.</em></p>
 
 <p align="center">
-  Websites: <a href="https://zsnout.com/">v7dyn.zSnout.com</a> and <a href="https://v8.zsnout.com/">v8.zSnout.com</a> <br />
+  Websites: <a href="https://v7dyn.zsnout.com/">v7dyn.zSnout.com</a> and <a href="https://v8.zsnout.com/">v8.zSnout.com</a> <br />
 </p>
 
 I'm interested in programming, math, linguistics, and conlangs (especially toki pona and Ithkuil). My main projects for the last few months have been related to [the Ithkuil language](http://ithkuil.net), which include a [script generator](https://v8.zsnout.com/ithkuil/script), a [Discord bot](https://discord.gg/qpM7dYyz4Q) for glossing Ithkuil, and the NPM package [@zsnout/ithkuil](https://npmjs.com/package/@zsnout/ithkuil), a comprehensive set of utilities for Ithkuil.
